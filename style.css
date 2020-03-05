@@ -1,0 +1,15 @@
+border:0;
+margin:0;
+padding:0;
+}
+html, body {
+font-family: Signika;
+font-family: 'Kalam', cursive;
+font-size: 16px;
+height: 100%;
+}
+
+a{
+text-decoration: none !important;
+color:rgb(27,80,117)!important;
+}
